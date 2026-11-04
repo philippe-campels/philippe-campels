@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__SAP_ABAP_Docs_Marian_Zeis",
+      "mcp__SAP_Docs_Marian_Zeis",
+      "mcp__plugin_sap-fiori-mcp-server_fiori-mcp__search_docs",
+      "mcp__plugin_sap-fiori-mcp-server_fiori-mcp__list_sap_systems",
+      "mcp__plugin_sap-fiori-mcp-server_fiori-mcp__list_fiori_apps",
+      "mcp__plugin_sap-fiori-mcp-server_fiori-mcp__list_functionality",
+      "mcp__plugin_sap-fiori-mcp-server_fiori-mcp__get_functionality_details"
+    ]
+  }
+}
